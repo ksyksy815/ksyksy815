@@ -1,4 +1,13 @@
-### Hi there 👋
+![layered-waves-haikei](https://user-images.githubusercontent.com/76037764/130591292-a6cc85f5-6143-4193-b088-64d3b2a9c4d3.png)
+
+# Hi, I'm Seo! 😃
+
+### 🌼 I am a front-end developer who loves building wonderful digital experiences.
+### 💻 I use Javascript(ES6+), React.js, HTML, CSS and Node.js to make web applications.
+### ❤️ I love pretty things and am a huge fan of Pinterest.
+
+
+
 
 <!--
 **ksyksy815/ksyksy815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
