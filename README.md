@@ -1,7 +1,7 @@
 # Hi, I'm Seo! 😃
 
-### 🌼 I am a front-end developer who loves building wonderful digital experiences.
-### 💻 I use Javascript(ES6+), React.js, HTML, CSS and Node.js to make web applications.
+### 🌼 Front-end developer who loves building wonderful digital experiences.
+### 💻 Javascript(ES6+), React.js, HTML, CSS, Node.js, etc
 ### ❤️ I love pretty things and am a huge fan of Pinterest.
 
 
