@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/7a074713-2292-45f6-a8d5-83fbe053ff6a)
+![image](https://github.com/user-attachments/assets/ccf49320-17f2-4302-b086-56e03ff2af27)
+
 
 # Hi, I'm Seo! 👋🏻
 
@@ -74,7 +75,6 @@ Feel free to explore my projects and connect with me!
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/seo-yeon-kim)
 
-Portfolio: seoyeon-kim.com
 
 <br>
 <br>
