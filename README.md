@@ -3,7 +3,6 @@
 # Hi, I'm Seo! 👋🏻
 
 
-
 ## 📖 About me
 
 ### 👋 **Hello!**  
@@ -45,11 +44,27 @@ Feel free to explore my projects and connect with me!
 
 ## 🛠️ Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,mongodb,git,github)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,mongodb,vercel,git,github)
+
+
+<br>
+<br>
+<br>
+
+## ⭐️ Most Used Weapons
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ksyksy815&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksyksy815&theme=catppuccin_latte" alt="Top Langs" />
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=ksyksy815&theme=react-dark)
+
+
+<br>
+
+## 🏆 Github Status
+<img  src="https://github-stats-lemon.vercel.app/api?username=ksyksy815&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ksyksy815&theme=tokyonight" width="48%" >
+
 
 <br>
 <br>
@@ -58,6 +73,8 @@ Feel free to explore my projects and connect with me!
 ## 🌐 Connect with me
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/seo-yeon-kim)
+
+Portfolio: seoyeon-kim.com
 
 <br>
 <br>
