@@ -89,15 +89,3 @@ Feel free to explore my projects and connect with me!
 <br>
 <br>
 <br>
-
-
-
-https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
-
-
-X (formerly Twitter)X (formerly Twitter)
-Adrian | JavaScript Mastery (@jsmasterypro) on X
-Founder & CEO @ JS Mastery
-@GitHub Star, software engineer & educator
-Mentor @ https://t.co/qT36WOk4tp
-Next.js enthusiast @ https://t.co/I3a7BTyG6v
